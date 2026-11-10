@@ -44,15 +44,6 @@ $ ps aux | grep agentes
   <img src="https://img.shields.io/badge/MAESTRI-000000?style=for-the-badge&labelColor=000000&color=00FF41" />
 </p>
 
-<h3 align="center"><code>$ cat ./projects/*.log</code></h3>
-
-| process | stack | status |
-|---|---|---|
-| **quali.in** `SYS-005-QUALI-IN` | TanStack Start/Router/Query, React 19, TypeScript, Tailwind v4, PostgreSQL/MySQL, Docker + PM2 + Nginx | 🟢 em produção |
-| **Bot-Maestri** | Node.js, PowerShell | 🟢 ativo |
-| **Help-Desk-Instramed** | Next.js, Vercel | 🟢 ativo |
-| **Automação-Pen-Drive** | PowerShell | 🟢 ativo |
-
 <h3 align="center"><code>$ ./stats.sh --verbose</code></h3>
 
 <p align="center">
